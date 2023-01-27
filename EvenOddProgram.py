@@ -1,4 +1,4 @@
-# Code to check that number is positive or negative
+# Code to check that number is Odd or Even
 
 number = int(input("Enter a number: "))
 
