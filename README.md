@@ -1,0 +1,5 @@
+# PythonAssignment1cloudeqAmar
+
+ASSIGNMENT BY HAFSA MAM
+
+PUSHED BY AMARJOT SINGH CEQ508
